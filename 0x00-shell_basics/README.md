@@ -7,3 +7,5 @@
 3-listfiles is an executable script that displays current directory contents in a long format
 
 4-listmorefiles is an executable script that displays current directory contents, including hidden files(starting with .) in long format
+
+5-listfilesdigitonly is an executable script that displayscurrent directory contents and hidden files (starting with .) in long format with user and group IDs displayed numerically
