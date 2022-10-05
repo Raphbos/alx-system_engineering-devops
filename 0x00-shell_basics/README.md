@@ -5,3 +5,5 @@
 2-bring_me_home is an executable script that changes the working directory to the user's home directory
 
 3-listfiles is an executable script that displays current directory contents in a long format
+
+4-listmorefiles is an executable script that displays current directory contents, including hidden files(starting with .) in long format
