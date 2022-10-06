@@ -23,3 +23,5 @@
 11-lists is an executable script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
 
 12-file_type is an executable script that prints the file named iamafile which is in the /tmp directory
+
+13-symbolic_link is an executable script that creates a symbolic link to /bin/ls named _ls_
