@@ -11,3 +11,5 @@
 5-listfilesdigitonly is an executable script that displayscurrent directory contents and hidden files (starting with .) in long format with user and group IDs displayed numerically
 
 6-firstdirectory is an executable script that creates a directory named my_first_directory in the /tmp/ directory
+
+7-movethatfile is an executable script that moves file betty from /tmp/ to /tmp/my_first_directory
