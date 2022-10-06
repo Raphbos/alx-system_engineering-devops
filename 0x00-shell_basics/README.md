@@ -17,3 +17,5 @@
 8-firstdelete is an executable script that deletes the file betty
 
 9-firstdirdeletion is an executable script that deletes the directory my_first_directory that is in the /tmp directory
+
+10-back is an executable script that changes the working directory to the previous one
