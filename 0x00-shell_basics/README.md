@@ -25,3 +25,5 @@
 12-file_type is an executable script that prints the file named iamafile which is in the /tmp directory
 
 13-symbolic_link is an executable script that creates a symbolic link to /bin/ls named _ls_
+
+14-copy_html is an executable script that copies all the HTML files from the current working directory to the parent of the working directory, but only copies files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory
